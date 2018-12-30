@@ -26,7 +26,7 @@
 ###### [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 ###### [주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 
-#### :newspaper: 읽을거리'
+#### :newspaper: 읽을거리
 ##### 로드맵
 ###### [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 ###### [웹 개발자 로드맵](https://github.com/devJang/developer-roadmap)
