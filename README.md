@@ -19,6 +19,7 @@
 ##### 백기선님 스프링 강의
 ###### [스프링 프레임워크 핵심 기술](https://www.inflearn.com/course/spring-framework_core/)
 ###### [스프링 부트 개념과 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
+###### [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
 ###### [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/)
 
 #### :memo: 정보/글 모음
