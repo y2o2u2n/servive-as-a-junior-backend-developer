@@ -59,6 +59,8 @@
 ###### [테알못 신입은 어떻게 테스트를 시작했을까?](https://www.slideshare.net/OKJSP/okkycon-120498066?fbclid=IwAR0Ks5Vk6GrlxI7e2Y_zk7t6hMbsp2tR4ebznBtbS5XoAhwr1vlm7qQvKKY)
 ###### [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
 ###### [실용주의 프로그래머. 앤드류 헌트/데이비드 토머스](https://blog.ordinarysimple.com/posts/programming/2018-11-04-the-progmatic-programmer/)
+###### [What programming languages are used at Instagram?](https://www.quora.com/What-programming-languages-are-used-at-Instagram)
+###### [How to come up with side project ideas](https://blog.producthunt.com/how-to-come-up-with-side-project-ideas-4a2c8049deba)
 
 #### :neutral_face: 흠... 읽어볼까?
 ###### [가장 빨리 만나는 도커](http://pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book?fbclid=IwAR2kc6C9bbe9D9BQAAeJkhFdVL6Lmp3z-3Nkr5yOT1-wucT0y_J8oBQvdFI)
