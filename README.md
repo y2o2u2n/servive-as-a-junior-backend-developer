@@ -11,9 +11,6 @@
 		- [MYSQL 성능 최적화](https://book.naver.com/bookdb/book_detail.nhn?bid=6397948)
 	- ETC
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
-		- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
-		- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
-		- [Java Performance The Definitive Guide](https://book.naver.com/bookdb/book_detail.nhn?bid=7638564)
 		
 - :tv: 강의
 	- 백기선님 스프링 강의
@@ -72,3 +69,6 @@
 	- [DDD Start!](https://book.naver.com/bookdb/price.nhn?bid=10615650)
 	- [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
 	- [지속적인 통합](https://book.naver.com/bookdb/book_detail.nhn?bid=4487267)
+	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
+	- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
+	- [Java Performance The Definitive Guide](https://book.naver.com/bookdb/book_detail.nhn?bid=7638564)
