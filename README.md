@@ -16,7 +16,6 @@
 	- 백기선님 스프링 강의
 		- [스프링 프레임워크 핵심 기술](https://www.inflearn.com/course/spring-framework_core/)
 		- [스프링 부트 개념과 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
-		- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
 		- [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/)
 
 - :memo: 정보/글 모음
@@ -61,14 +60,15 @@
 		- [How to come up with side project ideas](https://blog.producthunt.com/how-to-come-up-with-side-project-ideas-4a2c8049deba)
 		- [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
 
-- :neutral_face: 흠... 읽어볼까?
-	- [가장 빨리 만나는 도커](http://pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book?fbclid=IwAR2kc6C9bbe9D9BQAAeJkhFdVL6Lmp3z-3Nkr5yOT1-wucT0y_J8oBQvdFI)
-	- [테스트 주도 개발로 배우는 객체 지향 설계와 실천](https://book.naver.com/bookdb/book_detail.nhn?bid=7231228)
-	- [스프링 마이크로서비스 코딩 공작소](https://book.naver.com/bookdb/book_detail.nhn?bid=14371209)
-	- [함께 자라기](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885)
-	- [DDD Start!](https://book.naver.com/bookdb/price.nhn?bid=10615650)
+- :neutral_face: 다음에 볼 우선순위 큐
+	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
 	- [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
 	- [지속적인 통합](https://book.naver.com/bookdb/book_detail.nhn?bid=4487267)
-	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
+	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
+	- [테스트 주도 개발로 배우는 객체 지향 설계와 실천](https://book.naver.com/bookdb/book_detail.nhn?bid=7231228)
+	- [DDD Start!](https://book.naver.com/bookdb/price.nhn?bid=10615650)
+	- [스프링 마이크로서비스 코딩 공작소](https://book.naver.com/bookdb/book_detail.nhn?bid=14371209)
+	- [함께 자라기](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885)
+	- [가장 빨리 만나는 도커](http://pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book?fbclid=IwAR2kc6C9bbe9D9BQAAeJkhFdVL6Lmp3z-3Nkr5yOT1-wucT0y_J8oBQvdFI)
 	- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 	- [Java Performance The Definitive Guide](https://book.naver.com/bookdb/book_detail.nhn?bid=7638564)
