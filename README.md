@@ -72,4 +72,4 @@
 	- [함께 자라기](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885)
 	- [DDD Start!](https://book.naver.com/bookdb/price.nhn?bid=10615650)
 	- [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
-	- [지속적인 통합](https://book.naver.com/bookdb/book_detail.nhn?bid=4487267
+	- [지속적인 통합](https://book.naver.com/bookdb/book_detail.nhn?bid=4487267)
