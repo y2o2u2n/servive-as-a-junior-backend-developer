@@ -11,7 +11,6 @@
 		- [MYSQL 성능 최적화](https://book.naver.com/bookdb/book_detail.nhn?bid=6397948)
 	- ETC
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
-		- [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
 		- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
 		- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 		- [Java Performance The Definitive Guide](https://book.naver.com/bookdb/book_detail.nhn?bid=7638564)
