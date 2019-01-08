@@ -51,10 +51,10 @@
 		- [라이더스 개발팀 모바일에서 CI/CD 도입](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
 		- [헤이딜러에서는 어떻게 일하나요?
 ](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
+		- [젠킨스란 무엇인가, CI(Continuous Integration) 서버의 이해](http://www.itworld.co.kr/news/107527)
 	- ETC
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
-		- [젠킨스란 무엇인가, CI(Continuous Integration) 서버의 이해](http://www.itworld.co.kr/news/107527)
 		- [초보를 위한 도커 안내서 - 도커란 무엇인가? ](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 		- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 		- [테알못 신입은 어떻게 테스트를 시작했을까?](https://www.slideshare.net/OKJSP/okkycon-120498066?fbclid=IwAR0Ks5Vk6GrlxI7e2Y_zk7t6hMbsp2tR4ebznBtbS5XoAhwr1vlm7qQvKKY)
