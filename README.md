@@ -47,6 +47,10 @@
 		- [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 		- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 		- [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
+	- CI/CD
+		- [라이더스 개발팀 모바일에서 CI/CD 도입](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
+		- [헤이딜러에서는 어떻게 일하나요?
+](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 	- ETC
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
