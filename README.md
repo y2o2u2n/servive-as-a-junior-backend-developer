@@ -63,6 +63,7 @@
 		- [What programming languages are used at Instagram?](https://www.quora.com/What-programming-languages-are-used-at-Instagram)
 		- [How to come up with side project ideas](https://blog.producthunt.com/how-to-come-up-with-side-project-ideas-4a2c8049deba)
 		- [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
+		- [OAuth와 춤을](https://d2.naver.com/helloworld/24942)
 
 - :neutral_face: 다음에 볼 우선순위 큐
 	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
