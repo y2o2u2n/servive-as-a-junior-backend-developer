@@ -31,6 +31,7 @@
 	- 디자인 패턴
 		- [프록시 패턴(Proxy Pattern)](http://limkydev.tistory.com/79)
 		- [옵저버 패턴 (Observer Pattern)](https://futurecreator.github.io/2018/06/04/java-observer-pattern/)
+		- [Adapter Design Pattern in Java](https://www.journaldev.com/1487/adapter-design-pattern-java)
 	- 프레임워크
 		- [Node.js vs Java 구조적 차이](http://mygumi.tistory.com/154)
 	- 네트워크
