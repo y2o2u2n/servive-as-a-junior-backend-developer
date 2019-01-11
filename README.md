@@ -49,9 +49,8 @@
 		- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 		- [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
 	- CI/CD
+		- [CI/CD 시작하기](http://www.itworld.co.kr/howto/109147)
 		- [라이더스 개발팀 모바일에서 CI/CD 도입](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
-		- [헤이딜러에서는 어떻게 일하나요?
-](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 		- [젠킨스란 무엇인가, CI(Continuous Integration) 서버의 이해](http://www.itworld.co.kr/news/107527)
 	- ETC
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
@@ -65,6 +64,8 @@
 		- [How to come up with side project ideas](https://blog.producthunt.com/how-to-come-up-with-side-project-ideas-4a2c8049deba)
 		- [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474)
 		- [OAuth와 춤을](https://d2.naver.com/helloworld/24942)
+		- [헤이딜러에서는 어떻게 일하나요?
+](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 
 - :neutral_face: 다음에 볼 우선순위 큐
 	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
