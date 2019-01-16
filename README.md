@@ -56,6 +56,7 @@
 	- ETC
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
+		- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 		- [초보를 위한 도커 안내서 - 도커란 무엇인가? ](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 		- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 		- [테알못 신입은 어떻게 테스트를 시작했을까?](https://www.slideshare.net/OKJSP/okkycon-120498066?fbclid=IwAR0Ks5Vk6GrlxI7e2Y_zk7t6hMbsp2tR4ebznBtbS5XoAhwr1vlm7qQvKKY)
