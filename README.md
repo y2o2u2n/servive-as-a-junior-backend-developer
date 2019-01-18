@@ -41,6 +41,7 @@
 		- [NGINX 소개](https://www.opentutorials.org/module/384/3462)
 	- 데이터베이스
 		- [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
+		- [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/)
 		- [레디스 개념 및 특징](http://codingmania.tistory.com/18)
 		- [샤딩과 파티셔닝의 차이점](http://theeye.pe.kr/archives/1917)
 	- 프론트 엔드
