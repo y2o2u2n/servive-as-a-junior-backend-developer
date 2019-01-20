@@ -71,6 +71,8 @@
 		- [헤이딜러에서는 어떻게 일하나요?
 ](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)
 		- [알고리즘 학습에 대한 조언](http://blog.weirdx.io/post/55358?fbclid=IwAR0Y8oCmcFoTHZrMwVSwFWHsQBGuhJkje89pDENK2c0g5BuhwGKLPtc5ylQ)
+		- [2018년, 내가 모르는 기술들
+](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 
 - :neutral_face: 큐
 	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
