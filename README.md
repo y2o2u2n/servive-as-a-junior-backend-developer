@@ -45,6 +45,7 @@
 		- [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/)
 		- [레디스 개념 및 특징](http://codingmania.tistory.com/18)
 		- [샤딩과 파티셔닝의 차이점](http://theeye.pe.kr/archives/1917)
+		- [샤딩과 레플리카](https://elky84.github.io/2018/08/19/sharding_and_replica/)
 	- 프론트 엔드
 		- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
 	- GIT
