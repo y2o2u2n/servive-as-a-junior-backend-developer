@@ -56,6 +56,7 @@
 		- [CI/CD 시작하기](http://www.itworld.co.kr/howto/109147)
 		- [라이더스 개발팀 모바일에서 CI/CD 도입](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
 		- [젠킨스란 무엇인가, CI(Continuous Integration) 서버의 이해](http://www.itworld.co.kr/news/107527)
+		- [테스트 주도 개발](https://wikidocs.net/224)
 	- ETC
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
