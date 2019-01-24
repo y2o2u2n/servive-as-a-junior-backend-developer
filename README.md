@@ -46,6 +46,9 @@
 		- [레디스 개념 및 특징](http://codingmania.tistory.com/18)
 		- [샤딩과 파티셔닝의 차이점](http://theeye.pe.kr/archives/1917)
 		- [샤딩과 레플리카](https://elky84.github.io/2018/08/19/sharding_and_replica/)
+	- 메세지 큐
+		- [메시지 큐(Message Queue) 훑어보기](https://heowc.tistory.com/35)
+		- [Kafka vs RabbitMQ vs ActiveMQ](https://twowinsh87.github.io/etc/2018/08/07/etc-kafka-8/)
 	- 프론트 엔드
 		- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
 	- GIT
