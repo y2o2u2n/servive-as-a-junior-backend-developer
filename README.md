@@ -80,11 +80,11 @@
 ](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
 
 - :neutral_face: 큐
-	- [지속적인 통합](https://book.naver.com/bookdb/book_detail.nhn?bid=4487267)
 	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
 	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 	- [도메인 주도 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 	- [자바 성능 튜닝](https://book.naver.com/bookdb/book_detail.nhn?bid=10362169)
+	- [지속적인 통합](https://book.naver.com/bookdb/book_detail.nhn?bid=4487267)
 	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
 	- [DDD Start!](https://book.naver.com/bookdb/price.nhn?bid=10615650)
 	- [스프링 마이크로서비스 코딩 공작소](https://book.naver.com/bookdb/book_detail.nhn?bid=14371209)
