@@ -19,6 +19,7 @@
 		- [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/)
 
 - :memo: 정보/글 모음
+	- [Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 	- [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 	- [주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 
