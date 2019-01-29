@@ -40,6 +40,7 @@
 		- [나만 모르고 있던 - HTTP/2](https://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
 		- [Gateway란?](http://brownbears.tistory.com/195)
 	- 웹서버
+		- [웹프로그래밍 스터디 - 2.웹서버 vs WAS](https://brunch.co.kr/@springboot/21)
 		- [NGINX 소개](https://www.opentutorials.org/module/384/3462)
 	- 데이터베이스
 		- [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
@@ -62,8 +63,10 @@
 		- [라이더스 개발팀 모바일에서 CI/CD 도입](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
 		- [젠킨스란 무엇인가, CI(Continuous Integration) 서버의 이해](http://www.itworld.co.kr/news/107527)
 		- [테스트 주도 개발](https://wikidocs.net/224)
-	- ETC
+	- 아키텍처
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
+		- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
+	- ETC
 		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
 		- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 		- [초보를 위한 도커 안내서 - 도커란 무엇인가? ](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
