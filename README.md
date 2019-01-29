@@ -83,6 +83,7 @@
 		- [알고리즘 학습에 대한 조언](http://blog.weirdx.io/post/55358?fbclid=IwAR0Y8oCmcFoTHZrMwVSwFWHsQBGuhJkje89pDENK2c0g5BuhwGKLPtc5ylQ)
 		- [2018년, 내가 모르는 기술들
 ](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj)
+		- [Kotlin과 Java 전격 비교](https://academy.realm.io/kr/posts/kotlin-does-java-droidcon-boston-2017-gonda/)
 
 - :neutral_face: 큐
 	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
