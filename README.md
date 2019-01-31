@@ -30,7 +30,7 @@
 	- 언어
 		- [자바 메모리 관리 - 스택 & 힙](https://yaboong.github.io/java/2018/05/26/java-memory-management/)
 		- [자바 메모리 관리 - 가비지 컬렉션](https://yaboong.github.io/java/2018/06/09/java-garbage-collection/)
-		- [Java Garbage Collection Basics - ](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+		- [Java Garbage Collection Basics (공식 문서)](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 		- [Top 10 Java Books for Programmers — All time Great](https://medium.com/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a)
 	- 디자인 패턴
 		- [프록시 패턴(Proxy Pattern)](http://limkydev.tistory.com/79)
