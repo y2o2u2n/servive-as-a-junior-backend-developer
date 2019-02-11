@@ -10,6 +10,7 @@
 	- Database
 		- [MYSQL 성능 최적화](https://book.naver.com/bookdb/book_detail.nhn?bid=6397948)
 	- ETC
+		- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
 		
 - :tv: 강의
@@ -93,7 +94,6 @@
 - :neutral_face: 큐
 	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
 	- [스프링 웹 MVC](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
-	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557)
 	- [도메인 주도 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 	- [자바 성능 튜닝](https://book.naver.com/bookdb/book_detail.nhn?bid=10362169)
