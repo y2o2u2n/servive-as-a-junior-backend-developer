@@ -43,6 +43,7 @@
 		- [나만 모르고 있던 - HTTP/2](https://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
 		- [Gateway란?](http://brownbears.tistory.com/195)
 	- 웹서버
+		- [Apache? Tomcat?](http://plus4070.github.io/nhn%20entertainment%20devdays/ApacheTomcat.html)
 		- [웹프로그래밍 스터디 - 2.웹서버 vs WAS](https://brunch.co.kr/@springboot/21)
 		- [NGINX 소개](https://www.opentutorials.org/module/384/3462)
 	- 데이터베이스
