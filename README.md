@@ -73,6 +73,7 @@
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 	- ETC
+		- [SSH란 무엇이고 왜 사용하나요? Telnet과의 차이점은요?](https://blog.inidog.com/p/201808031460)
 		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
 		- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 		- [초보를 위한 도커 안내서 - 도커란 무엇인가? ](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
