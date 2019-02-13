@@ -75,6 +75,7 @@
 	- ETC
 		- [SSH란 무엇이고 왜 사용하나요? Telnet과의 차이점은요?](https://blog.inidog.com/p/201808031460)
 		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
+		- [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
 		- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 		- [초보를 위한 도커 안내서 - 도커란 무엇인가? ](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 		- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
