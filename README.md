@@ -60,6 +60,8 @@
 		- [Kafka vs RabbitMQ vs ActiveMQ](https://twowinsh87.github.io/etc/2018/08/07/etc-kafka-8/)
 	- 프론트 엔드
 		- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
+	- 리눅스
+		- [모든 리눅스 초보자가 알아야 할 5가지 터미널 명령](http://www.itworld.co.kr/news/101988)
 	- GIT
 		- [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 		- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
