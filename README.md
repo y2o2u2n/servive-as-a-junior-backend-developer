@@ -75,12 +75,14 @@
 	- 아키텍처
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
-	- ETC
-		- [SSH란 무엇이고 왜 사용하나요? Telnet과의 차이점은요?](https://blog.inidog.com/p/201808031460)
-		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
+	- Docker & Kubernetes
+		- [쿠버네티스 기초 학습](https://kubernetes.io/ko/docs/tutorials/kubernetes-basics/)
 		- [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
 		- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 		- [초보를 위한 도커 안내서 - 도커란 무엇인가? ](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+	- ETC
+		- [SSH란 무엇이고 왜 사용하나요? Telnet과의 차이점은요?](https://blog.inidog.com/p/201808031460)
+		- [TPS 지표 이해하기](https://brunch.co.kr/@leedongins/27)
 		- [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 		- [테알못 신입은 어떻게 테스트를 시작했을까?](https://www.slideshare.net/OKJSP/okkycon-120498066?fbclid=IwAR0Ks5Vk6GrlxI7e2Y_zk7t6hMbsp2tR4ebznBtbS5XoAhwr1vlm7qQvKKY)
 		- [신규 Web 서비스시 고려해 볼 사항](http://kwonnam.pe.kr/wiki/web/%EC%8B%A0%EA%B7%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
