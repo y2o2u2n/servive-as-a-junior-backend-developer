@@ -73,6 +73,7 @@
 		- [테스트 주도 개발](https://wikidocs.net/224)
 		- [유닛테스트에 대한 생각](https://blog.outsider.ne.kr/1275)
 	- 아키텍처
+		- [확장성 있는 웹 아키텍처와 분산 시스템](https://d2.naver.com/helloworld/206816)
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 	- Docker & Kubernetes
