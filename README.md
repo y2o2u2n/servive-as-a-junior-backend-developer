@@ -44,6 +44,7 @@
 		- [나만 모르고 있던 - HTTP/2](https://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
 		- [Gateway란?](http://brownbears.tistory.com/195)
 		- [SSL/TLS의 이해와 TLS 1.3으로 업그레이드해야 하는 이유](http://www.itworld.co.kr/news/113007)
+		- [HTTPS 와 SSL(TLS)](https://futurecreator.github.io/2018/07/12/https-and-ssl-tls/)
 	- 웹서버
 		- [Apache? Tomcat?](http://plus4070.github.io/nhn%20entertainment%20devdays/ApacheTomcat.html)
 		- [웹프로그래밍 스터디 - 2.웹서버 vs WAS](https://brunch.co.kr/@springboot/21)
