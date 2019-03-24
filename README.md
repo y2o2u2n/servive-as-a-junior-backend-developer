@@ -80,6 +80,7 @@
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 	- Docker & Kubernetes
+		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
 		- [쿠버네티스 기초 학습](https://kubernetes.io/ko/docs/tutorials/kubernetes-basics/)
 		- [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
 		- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
