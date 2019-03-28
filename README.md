@@ -18,6 +18,8 @@
 		- [스프링 프레임워크 핵심 기술](https://www.inflearn.com/course/spring-framework_core/)
 		- [스프링 부트 개념과 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
 		- [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/)
+	- MOOC
+		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
 
 - :memo: 정보/글 모음
 	- [Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
@@ -80,7 +82,6 @@
 		- [웹 아키텍처 101](http://y2o2u2n.blogspot.com/2018/11/101.html)
 		- [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 	- Docker & Kubernetes
-		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
 		- [쿠버네티스 기초 학습](https://kubernetes.io/ko/docs/tutorials/kubernetes-basics/)
 		- [컨테이너와 쿠버네티스를 쉽게 이해하기](https://developer.ibm.com/kr/cloud/2019/02/01/easy_container_kubernetes/)
 		- [왜 굳이 도커(컨테이너)를 써야 하나요?](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
