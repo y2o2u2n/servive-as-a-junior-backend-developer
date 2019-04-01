@@ -48,6 +48,7 @@
 		- [SSL/TLS의 이해와 TLS 1.3으로 업그레이드해야 하는 이유](http://www.itworld.co.kr/news/113007)
 		- [HTTPS 와 SSL(TLS)](https://futurecreator.github.io/2018/07/12/https-and-ssl-tls/)
 		- [SSL 연결 부하를 줄여 주는 기능 - SSL Offloading](http://blog.naver.com/PostView.nhn?blogId=elimnet1&logNo=110178601038&parentCategoryNo=45&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
+		- [윈도우 netstat 기본 사용법](https://mainia.tistory.com/5378)
 	- 웹서버
 		- [Apache? Tomcat?](http://plus4070.github.io/nhn%20entertainment%20devdays/ApacheTomcat.html)
 		- [웹프로그래밍 스터디 - 2.웹서버 vs WAS](https://brunch.co.kr/@springboot/21)
