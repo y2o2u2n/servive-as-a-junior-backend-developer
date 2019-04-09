@@ -50,6 +50,7 @@
 		- [SSL 연결 부하를 줄여 주는 기능 - SSL Offloading](http://blog.naver.com/PostView.nhn?blogId=elimnet1&logNo=110178601038&parentCategoryNo=45&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
 		- [윈도우 netstat 기본 사용법](https://mainia.tistory.com/5378)
 		- [netstat 명령어에서 발견한 0.0.0.0과 ::의 의미](https://ojava.tistory.com/40)
+		- [IP 주소체계와 클래스 구별법 (IPV4)](http://korean-daeddo.blogspot.com/2015/12/ip.html)
 	- 웹서버
 		- [Apache? Tomcat?](http://plus4070.github.io/nhn%20entertainment%20devdays/ApacheTomcat.html)
 		- [웹프로그래밍 스터디 - 2.웹서버 vs WAS](https://brunch.co.kr/@springboot/21)
