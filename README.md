@@ -51,6 +51,7 @@
 		- [윈도우 netstat 기본 사용법](https://mainia.tistory.com/5378)
 		- [netstat 명령어에서 발견한 0.0.0.0과 ::의 의미](https://ojava.tistory.com/40)
 		- [IP 주소체계와 클래스 구별법 (IPV4)](http://korean-daeddo.blogspot.com/2015/12/ip.html)
+		- [L2 , L3 , L4 , L7 스위치 구분 및 기본적인 설명](https://klero.tistory.com/entry/L2-L3-L4-L7-%EC%8A%A4%EC%9C%84%EC%B9%98-%EA%B5%AC%EB%B6%84-%EB%B0%8F-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%84%A4%EB%AA%85)
 	- 웹서버
 		- [Apache? Tomcat?](http://plus4070.github.io/nhn%20entertainment%20devdays/ApacheTomcat.html)
 		- [웹프로그래밍 스터디 - 2.웹서버 vs WAS](https://brunch.co.kr/@springboot/21)
