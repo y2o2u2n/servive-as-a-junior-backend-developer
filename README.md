@@ -110,6 +110,8 @@
 		- [Kotlin과 Java 전격 비교](https://academy.realm.io/kr/posts/kotlin-does-java-droidcon-boston-2017-gonda/)
 		- [서버리스 컴퓨팅 시대의 풀 스택 개발](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f)
 		- [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/m/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0?fbclid=IwAR2cgtc-Lbu5QdCVqlQAgzyQS-gN-FtG3CdsHnXrN9ygSRfpfTHwML1zcEU)
+		- [bash_profile 시스템 환경변수 등록](https://server-talk.tistory.com/8)
+		- [맥 환경변수 셋팅 (Mac, bash_profile)](https://huskdoll.tistory.com/97)
 
 - :neutral_face: 큐
 	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
