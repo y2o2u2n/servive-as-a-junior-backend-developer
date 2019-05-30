@@ -36,6 +36,8 @@
 		- [Java Garbage Collection Basics (공식 문서)](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 		- [Top 10 Java Books for Programmers — All time Great](https://medium.com/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a)
 		- [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
+		- [자바 직렬화, 그것이 알고싶다. 훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
+		- [자바 직렬화, 그것이 알고싶다. 실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 	- 디자인 패턴
 		- [프록시 패턴(Proxy Pattern)](http://limkydev.tistory.com/79)
 		- [옵저버 패턴 (Observer Pattern)](https://futurecreator.github.io/2018/06/04/java-observer-pattern/)
