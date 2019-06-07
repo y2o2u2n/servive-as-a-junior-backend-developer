@@ -117,15 +117,15 @@
 		- [Docker + Jenkins](https://tora-it-kingdom.tistory.com/21?fbclid=IwAR0KeWSB13CAEjN4f-FfLT5sArAKLzKDeFLgfzt-KVEKjnXWw7A4yLxArLE)
 
 - :neutral_face: 큐
-	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
-	- [스프링 웹 MVC](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
 	- [자바 최적화](http://www.yes24.com/Product/Goods/72161685)
+	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
 	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557)
+	- [스프링 웹 MVC](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
+	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
 	- [도메인 주도 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 	- [지속적인 통합](https://book.naver.com/bookdb/book_detail.nhn?bid=4487267)
 	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
 	- [DDD Start!](https://book.naver.com/bookdb/price.nhn?bid=10615650)
-	- [스프링 마이크로서비스 코딩 공작소](https://book.naver.com/bookdb/book_detail.nhn?bid=14371209)
 	- [함께 자라기](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885)
 	- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 	- [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
