@@ -27,7 +27,6 @@
 	- [우아한형제들 기술 블로그](http://woowabros.github.io)
 	- [Blog - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog)
 	- [TOAST Meetup](https://meetup.toast.com)
-	- [당근마켓 ](https://medium.com/daangn)
 
 - :memo: 정보/글 모음
 	- [Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
