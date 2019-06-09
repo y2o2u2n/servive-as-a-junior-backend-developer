@@ -20,6 +20,14 @@
 		- [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/)
 	- MOOC
 		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
+		
+- 📋 기술 블로그
+	- [NAVER D2](https://d2.naver.com)
+	- [kakao 기술 블로그](http://tech.kakao.com)
+	- [우아한형제들 기술 블로그](http://woowabros.github.io)
+	- [Blog - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog)
+	- [TOAST Meetup](https://meetup.toast.com)
+	- [당근마켓 ](https://medium.com/daangn)
 
 - :memo: 정보/글 모음
 	- [Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
