@@ -60,6 +60,7 @@
 		- [웹프로그래밍 스터디 - 2.웹서버 vs WAS](https://brunch.co.kr/@springboot/21)
 		- [NGINX 소개](https://www.opentutorials.org/module/384/3462)
 		- [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/pages/viewpage.action?pageId=21430345)
+		- [HTTP 쿠키와 톰캣 버전별 이슈](https://meetup.toast.com/posts/172)
 	- 데이터베이스
 		- [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 		- [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/)
