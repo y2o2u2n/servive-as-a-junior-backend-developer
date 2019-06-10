@@ -45,6 +45,7 @@
 		- [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
 		- [자바 직렬화, 그것이 알고싶다. 훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 		- [자바 직렬화, 그것이 알고싶다. 실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
+		- [Java8 Tutorial](https://www.tutorialspoint.com/java8/)
 	- 디자인 패턴
 		- [프록시 패턴(Proxy Pattern)](http://limkydev.tistory.com/79)
 		- [옵저버 패턴 (Observer Pattern)](https://futurecreator.github.io/2018/06/04/java-observer-pattern/)
