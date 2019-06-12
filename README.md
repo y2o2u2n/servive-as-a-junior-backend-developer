@@ -128,6 +128,7 @@
 - :neutral_face: 큐
 	- [자바 최적화](http://www.yes24.com/Product/Goods/72161685)
 	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
+	- [스프링5 ](https://book.naver.com/bookdb/book_detail.nhn?bid=13911953)
 	- [자바 8 인 액션](https://book.naver.com/bookdb/book_detail.nhn?bid=8883567)
 	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557)
 	- [스프링 웹 MVC](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
