@@ -126,6 +126,7 @@
 		- [bash_profile 시스템 환경변수 등록](https://server-talk.tistory.com/8)
 		- [맥 환경변수 셋팅 (Mac, bash_profile)](https://huskdoll.tistory.com/97)
 		- [Docker + Jenkins](https://tora-it-kingdom.tistory.com/21?fbclid=IwAR0KeWSB13CAEjN4f-FfLT5sArAKLzKDeFLgfzt-KVEKjnXWw7A4yLxArLE)
+		- [Developer와 Quality Engineer, 어떻게 일해야 할까?](https://m.blog.naver.com/PostView.nhn?blogId=tmondev&logNo=221197164229&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 - :neutral_face: 큐
 	- [자바 최적화](http://www.yes24.com/Product/Goods/72161685)
