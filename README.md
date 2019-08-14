@@ -81,7 +81,9 @@
 		- [메시지 큐(Message Queue) 훑어보기](https://heowc.tistory.com/35)
 		- [RabbitMQ와 Spring AMQP를 이용한 간단한 작업 큐 만들기](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220419853534&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postView)
 		- [Kafka vs RabbitMQ vs ActiveMQ](https://twowinsh87.github.io/etc/2018/08/07/etc-kafka-8/)
+	- 카프카
 		- [아파치 카프카(Apache Kafka) 아키텍처 및 동작방식, 파티션 읽기 쓰기](https://engkimbs.tistory.com/691)
+		- [자습서: Apache Kafka 생산자 및 소비자 API 사용](https://docs.microsoft.com/ko-kr/azure/hdinsight/kafka/apache-kafka-producer-consumer-api)
 	- 프론트 엔드
 		- [Front-End 발전 역사와 개발 생태계](https://moon9342.github.io/front-end-ecosystem)
 	- 리눅스
