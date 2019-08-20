@@ -77,6 +77,7 @@
 		- [샤딩과 파티셔닝의 차이점](http://theeye.pe.kr/archives/1917)
 		- [샤딩과 레플리카](https://elky84.github.io/2018/08/19/sharding_and_replica/)
 		- [DBMS의 탄생과 발전, 그리고 역사](http://www.datanet.co.kr/news/articleView.html?idxno=114558&fbclid=IwAR11U893CS5Ju3Ngg77ojFDeHhAs_gfHWiQkbf1O-BwEONd9d5uQ56tOnZM)
+		- [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)
 	- 메세지 큐
 		- [메시지 큐(Message Queue) 훑어보기](https://heowc.tistory.com/35)
 		- [RabbitMQ와 Spring AMQP를 이용한 간단한 작업 큐 만들기](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220419853534&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postView)
