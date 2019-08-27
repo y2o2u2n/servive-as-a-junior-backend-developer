@@ -63,6 +63,8 @@
 		- [netstat 명령어에서 발견한 0.0.0.0과 ::의 의미](https://ojava.tistory.com/40)
 		- [IP 주소체계와 클래스 구별법 (IPV4)](http://korean-daeddo.blogspot.com/2015/12/ip.html)
 		- [L2 , L3 , L4 , L7 스위치 구분 및 기본적인 설명](https://klero.tistory.com/entry/L2-L3-L4-L7-%EC%8A%A4%EC%9C%84%EC%B9%98-%EA%B5%AC%EB%B6%84-%EB%B0%8F-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%84%A4%EB%AA%85)
+		- [TOAST CDN 소개](https://meetup.toast.com/posts/196)
+		- [GraphQL 개념잡기](http://tech.kakao.com/2019/08/01/graphql-basic/)
 	- 웹서버
 		- [Apache? Tomcat?](http://plus4070.github.io/nhn%20entertainment%20devdays/ApacheTomcat.html)
 		- [웹프로그래밍 스터디 - 2.웹서버 vs WAS](https://brunch.co.kr/@springboot/21)
@@ -78,6 +80,7 @@
 		- [샤딩과 레플리카](https://elky84.github.io/2018/08/19/sharding_and_replica/)
 		- [DBMS의 탄생과 발전, 그리고 역사](http://www.datanet.co.kr/news/articleView.html?idxno=114558&fbclid=IwAR11U893CS5Ju3Ngg77ojFDeHhAs_gfHWiQkbf1O-BwEONd9d5uQ56tOnZM)
 		- [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)
+		- [LINE Manga 데이터베이스 샤딩 – 데이터베이스 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-database/)
 	- 메세지 큐
 		- [메시지 큐(Message Queue) 훑어보기](https://heowc.tistory.com/35)
 		- [RabbitMQ와 Spring AMQP를 이용한 간단한 작업 큐 만들기](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220419853534&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postView)
