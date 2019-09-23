@@ -5,6 +5,8 @@
 	- Java
 		- [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515)
 		- [자바 8 람다의 힘](https://book.naver.com/bookdb/book_detail.nhn?bid=7743148)
+		- [자바 최적화](http://www.yes24.com/Product/Goods/72161685)
+		- [자바 8 인 액션](https://book.naver.com/bookdb/book_detail.nhn?bid=8883567)
 	- JavaScript
 		- [인사이드 자바스크립트](https://book.naver.com/bookdb/book_detail.nhn?bid=7400243)
 	- Database
@@ -137,9 +139,7 @@
 		- [하드링크와 심볼릭링크 개념잡기](https://jybaek.tistory.com/578)
 
 - :neutral_face: 큐
-	- [자바 최적화](http://www.yes24.com/Product/Goods/72161685)
 	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
-	- [자바 8 인 액션](https://book.naver.com/bookdb/book_detail.nhn?bid=8883567)
 	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557)
 	- [스프링5 레시피](https://book.naver.com/bookdb/book_detail.nhn?bid=13911953) / [스프링 철저 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=13400533)
 	- [스프링 웹 MVC](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
