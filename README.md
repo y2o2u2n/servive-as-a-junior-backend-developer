@@ -48,6 +48,8 @@
 		- [자바 직렬화, 그것이 알고싶다. 훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 		- [자바 직렬화, 그것이 알고싶다. 실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 		- [Java8 Tutorial](https://www.tutorialspoint.com/java8/)
+		- [Getting Started with the G1 Garbage Collector](https://www.oracle.com/technetwork/tutorials/tutorials-1876574.html)
+		- [G1GC – Java 9 Garbage Collector explained in 5 minutes](https://blog.idrsolutions.com/2017/05/g1gc-java-9-garbage-collector-explained-5-minutes/)
 	- 디자인 패턴
 		- [프록시 패턴(Proxy Pattern)](http://limkydev.tistory.com/79)
 		- [옵저버 패턴 (Observer Pattern)](https://futurecreator.github.io/2018/06/04/java-observer-pattern/)
