@@ -139,6 +139,7 @@
 		- [Docker + Jenkins](https://tora-it-kingdom.tistory.com/21?fbclid=IwAR0KeWSB13CAEjN4f-FfLT5sArAKLzKDeFLgfzt-KVEKjnXWw7A4yLxArLE)
 		- [Developer와 Quality Engineer, 어떻게 일해야 할까?](https://m.blog.naver.com/PostView.nhn?blogId=tmondev&logNo=221197164229&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 		- [하드링크와 심볼릭링크 개념잡기](https://jybaek.tistory.com/578)
+		- [쿠키런 1년, 서버개발 분투기](https://www.slideshare.net/serialxnet/1-35304689)
 
 - :neutral_face: 큐
 	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
