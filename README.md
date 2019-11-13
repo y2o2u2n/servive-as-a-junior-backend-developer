@@ -14,6 +14,8 @@
 	- ETC
 		- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
+		= [그림으로 배우는 HTTP & Network Basic](https://book.naver.com/bookdb/book_detail.nhn?bid=8657832)
+		- [DDD Start!](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650)
 		
 - :tv: 강의
 	- 백기선님 스프링 강의
@@ -50,6 +52,7 @@
 		- [Java8 Tutorial](https://www.tutorialspoint.com/java8/)
 		- [Getting Started with the G1 Garbage Collector](https://www.oracle.com/technetwork/tutorials/tutorials-1876574.html)
 		- [G1GC – Java 9 Garbage Collector explained in 5 minutes](https://blog.idrsolutions.com/2017/05/g1gc-java-9-garbage-collector-explained-5-minutes/)
+		- [Java HashMap은 어떻게 동작하는가?](https://d2.naver.com/helloworld/831311)
 	- 디자인 패턴
 		- [프록시 패턴(Proxy Pattern)](http://limkydev.tistory.com/79)
 		- [옵저버 패턴 (Observer Pattern)](https://futurecreator.github.io/2018/06/04/java-observer-pattern/)
@@ -140,17 +143,16 @@
 		- [Developer와 Quality Engineer, 어떻게 일해야 할까?](https://m.blog.naver.com/PostView.nhn?blogId=tmondev&logNo=221197164229&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 		- [하드링크와 심볼릭링크 개념잡기](https://jybaek.tistory.com/578)
 		- [쿠키런 1년, 서버개발 분투기](https://www.slideshare.net/serialxnet/1-35304689)
+		- [결제 시스템 성능, 부하, 스트레스 테스트](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)
+		- [도움이 될수도 있는 JVM memory leak 이야기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
 
 - :neutral_face: 큐
 	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
+	- [클린 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=15303798)
 	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557)
 	- [스프링5 레시피](https://book.naver.com/bookdb/book_detail.nhn?bid=13911953) / [스프링 철저 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=13400533)
 	- [스프링 웹 MVC](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
 	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
-	- [도메인 주도 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
-	- [지속적인 통합](https://book.naver.com/bookdb/book_detail.nhn?bid=4487267)
-	- [HEAD FIRST DESIGN PATTERNS](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446)
-	- [DDD Start!](https://book.naver.com/bookdb/price.nhn?bid=10615650)
 	- [함께 자라기](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885)
 	- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 	- [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
