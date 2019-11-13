@@ -14,7 +14,7 @@
 	- ETC
 		- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
-		= [그림으로 배우는 HTTP & Network Basic](https://book.naver.com/bookdb/book_detail.nhn?bid=8657832)
+		- [그림으로 배우는 HTTP & Network Basic](https://book.naver.com/bookdb/book_detail.nhn?bid=8657832)
 		- [DDD Start!](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650)
 		
 - :tv: 강의
