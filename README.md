@@ -22,6 +22,7 @@
 		- [스프링 프레임워크 핵심 기술](https://www.inflearn.com/course/spring-framework_core/)
 		- [스프링 부트 개념과 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
 		- [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/)
+		- [더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation)
 	- MOOC
 		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
 		
