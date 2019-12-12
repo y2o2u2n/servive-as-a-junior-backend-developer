@@ -89,6 +89,7 @@
 		- [DBMS의 탄생과 발전, 그리고 역사](http://www.datanet.co.kr/news/articleView.html?idxno=114558&fbclid=IwAR11U893CS5Ju3Ngg77ojFDeHhAs_gfHWiQkbf1O-BwEONd9d5uQ56tOnZM)
 		- [Commons DBCP 이해하기](https://d2.naver.com/helloworld/5102792)
 		- [LINE Manga 데이터베이스 샤딩 – 데이터베이스 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-database/)
+		- [우아한 Redis](https://www.slideshare.net/charsyam2/redis-196314086)
 	- 메세지 큐
 		- [메시지 큐(Message Queue) 훑어보기](https://heowc.tistory.com/35)
 		- [RabbitMQ와 Spring AMQP를 이용한 간단한 작업 큐 만들기](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220419853534&parentCategoryNo=&categoryNo=6&viewDate=&isShowPopularPosts=false&from=postView)
