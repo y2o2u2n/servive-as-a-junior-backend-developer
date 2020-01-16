@@ -23,6 +23,8 @@
 		- [스프링 부트 개념과 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
 		- [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/)
 		- [더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation)
+	- 김영한님 JPA 강의
+		- [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/스프링부트-JPA-활용-1)
 	- MOOC
 		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
 		
