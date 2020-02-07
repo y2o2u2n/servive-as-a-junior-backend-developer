@@ -149,6 +149,7 @@
 		- [쿠키런 1년, 서버개발 분투기](https://www.slideshare.net/serialxnet/1-35304689)
 		- [결제 시스템 성능, 부하, 스트레스 테스트](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)
 		- [도움이 될수도 있는 JVM memory leak 이야기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
+		- [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 
 - :neutral_face: 큐
 	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
