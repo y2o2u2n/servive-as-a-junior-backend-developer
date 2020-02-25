@@ -60,10 +60,10 @@
 		- [Getting Started with the G1 Garbage Collector](https://www.oracle.com/technetwork/tutorials/tutorials-1876574.html)
 		- [G1GC – Java 9 Garbage Collector explained in 5 minutes](https://blog.idrsolutions.com/2017/05/g1gc-java-9-garbage-collector-explained-5-minutes/)
 		- [Java HashMap은 어떻게 동작하는가?](https://d2.naver.com/helloworld/831311)
+	- JavaScript
+		- [JavasScript Visualized](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 	- 디자인 패턴
-		- [프록시 패턴(Proxy Pattern)](http://limkydev.tistory.com/79)
-		- [옵저버 패턴 (Observer Pattern)](https://futurecreator.github.io/2018/06/04/java-observer-pattern/)
-		- [Adapter Design Pattern in Java](https://www.journaldev.com/1487/adapter-design-pattern-java)
+		- [Design Patterns in Java](https://refactoring.guru/design-patterns/java)
 	- 프레임워크
 		- [주소검색서버(woowahan-juso) 개발기(上)](http://woowabros.github.io/experience/2018/05/26/woowahan-juso.html)
 		- [Node.js vs Java 구조적 차이](http://mygumi.tistory.com/154)
@@ -86,6 +86,7 @@
 		- [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/pages/viewpage.action?pageId=21430345)
 		- [HTTP 쿠키와 톰캣 버전별 이슈](https://meetup.toast.com/posts/172)
 		- [Safe Deploy - 안전하게 L4 에서 제외하는 방법](https://meetup.toast.com/posts/189)
+		- [[번역] NGINX 초심자 가이드](https://www.notion.so/y2o2u2n/NGINX-224dc305a677470abb18bc5ef225a649)
 	- 데이터베이스
 		- [MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 		- [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/)
@@ -155,6 +156,7 @@
 		- [도움이 될수도 있는 JVM memory leak 이야기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
 		- [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 		- [리눅스 서버 60초안에 상황파악하기](https://b.luavis.kr/server/linux-performance-analysis)
+		- [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 
 - :neutral_face: 큐
 	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
