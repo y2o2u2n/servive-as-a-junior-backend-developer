@@ -11,21 +11,23 @@
 		- [인사이드 자바스크립트](https://book.naver.com/bookdb/book_detail.nhn?bid=7400243)
 	- Database
 		- [MYSQL 성능 최적화](https://book.naver.com/bookdb/book_detail.nhn?bid=6397948)
+	- DDD
+		- [DDD Start!](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650)
+		- [도메인 주도 설계 핵심](https://book.naver.com/bookdb/book_detail.nhn?bid=12547690)
 	- ETC
 		- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
 		- [그림으로 배우는 HTTP & Network Basic](https://book.naver.com/bookdb/book_detail.nhn?bid=8657832)
-		- [DDD Start!](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650)
 		
 - :tv: 강의
 	- 백기선님 스프링 강의
 		- [스프링 프레임워크 핵심 기술](https://www.inflearn.com/course/spring-framework_core/)
 		- [스프링 부트 개념과 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/)
-		- [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/) : ⭐️[코드](https://github.com/y2o2u2n/spring-boot-real-rest-api-demo)
+		- [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api/) : [코드](https://github.com/y2o2u2n/spring-boot-real-rest-api-demo)
 		- [더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation)
 	- 김영한님 JPA 강의
-		- [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/스프링부트-JPA-활용-1) : ⭐️[코드](https://github.com/y2o2u2n/spring-boot-jpa-web-application)
-		- [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/스프링부트-JPA-API개발-성능최적화) : ⭐️ [코드](y2o2u2n/spring-boot-jpa-api-application)
+		- [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/스프링부트-JPA-활용-1) : [코드](https://github.com/y2o2u2n/spring-boot-jpa-web-application)
+		- [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/스프링부트-JPA-API개발-성능최적화) :  [코드](y2o2u2n/spring-boot-jpa-api-application)
 		- [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic#)
 	- MOOC
 		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
@@ -158,9 +160,6 @@
 	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
 	- [클린 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=15303798)
 	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557)
-	- [스프링5 레시피](https://book.naver.com/bookdb/book_detail.nhn?bid=13911953) / [스프링 철저 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=13400533)
-	- [스프링 웹 MVC](https://www.inflearn.com/course/%EC%9B%B9-mvc/)
-	- [스프링  JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa/)
 	- [함께 자라기](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885)
 	- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 	- [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
