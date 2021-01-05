@@ -60,8 +60,14 @@
 		- [Getting Started with the G1 Garbage Collector](https://www.oracle.com/technetwork/tutorials/tutorials-1876574.html)
 		- [G1GC – Java 9 Garbage Collector explained in 5 minutes](https://blog.idrsolutions.com/2017/05/g1gc-java-9-garbage-collector-explained-5-minutes/)
 		- [Java HashMap은 어떻게 동작하는가?](https://d2.naver.com/helloworld/831311)
+	- Spring
+		- [cheese10yun/spring-guide](https://github.com/cheese10yun/spring-guide)
 	- JavaScript
 		- [JavasScript Visualized](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+	- React
+		- [자습서: React 시작하기](https://ko.reactjs.org/tutorial/tutorial.html)
+		- [Redux (1) 소개 및 개념정리](https://velog.io/@velopert/Redux-1-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-zxjlta8ywt)
+		- [TypeScript 환경에서 Redux를 프로처럼 사용하기](https://velog.io/@velopert/use-typescript-and-redux-like-a-pro)
 	- 디자인 패턴
 		- [Design Patterns in Java](https://refactoring.guru/design-patterns/java)
 	- 프레임워크
