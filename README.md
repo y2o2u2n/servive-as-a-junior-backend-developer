@@ -163,6 +163,7 @@
 		- [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 		- [리눅스 서버 60초안에 상황파악하기](https://b.luavis.kr/server/linux-performance-analysis)
 		- [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+		- [개발자의 평생공부](https://zdnet.co.kr/view/?no=20170616090644)
 
 - :neutral_face: 큐
 	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
