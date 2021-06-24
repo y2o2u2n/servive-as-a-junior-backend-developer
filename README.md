@@ -17,9 +17,19 @@
 	- Container
 		- [완벽한 IT 인프라 구축을 위한 Docker](https://book.naver.com/bookdb/book_detail.nhn?bid=13987575)
 		- [완벽한 IT 인프라 구축의 자동화를 위한 Kubernetes](https://book.naver.com/bookdb/book_detail.nhn?bid=15476569) 
+	- Design
+		- [데이터 중심 애플리케이션 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=13483879)	
 	- ETC
 		- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
+	- 🚧 Queue
+		- [성공과 실패를 결정하는 1%의 네트워크 원리](https://book.naver.com/bookdb/book_detail.nhn?bid=16386986)
+		- [리눅스 커맨드라인 완벽 입문서](https://book.naver.com/bookdb/book_detail.nhn?bid=7112622)
+		- [토비의 스프링 3.1 세트](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516)
+		- [자바 ORM 표준 JPA 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
+		- [리팩토링](https://book.naver.com/bookdb/book_detail.nhn?bid=7047630)
+		- [클린 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=15303798)
+		- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
 - :tv: 강의
 	- 백기선님 스프링 강의
 		- [스프링 프레임워크 핵심 기술](https://www.inflearn.com/course/spring-framework_core/)
@@ -29,6 +39,8 @@
 		- [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/스프링부트-JPA-활용-1) : [코드](https://github.com/y2o2u2n/spring-boot-jpa-web-application)
 		- [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/스프링부트-JPA-API개발-성능최적화) :  [코드](y2o2u2n/spring-boot-jpa-api-application)
 		- [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic#)
+	- TDD & Clean Code
+		- [자바 플레이그라운드 with TDD, 클린코드](https://edu.nextstep.camp/c/9WPRB0ys/)
 	- MOOC
 		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
 		
@@ -164,11 +176,3 @@
 		- [리눅스 서버 60초안에 상황파악하기](https://b.luavis.kr/server/linux-performance-analysis)
 		- [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 		- [개발자의 평생공부](https://zdnet.co.kr/view/?no=20170616090644)
-
-- :neutral_face: 큐
-	- [카프카, 데이터 플랫폼의 최강자](https://book.naver.com/bookdb/book_detail.nhn?bid=13540082)
-	- [클린 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=15303798)
-	- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557)
-	- [함께 자라기](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885)
-	- [UML 실전에서는 이것만 쓴다](https://book.naver.com/bookdb/book_detail.nhn?bid=6439362)
-	- [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119)
