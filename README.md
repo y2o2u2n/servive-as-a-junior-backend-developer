@@ -69,7 +69,9 @@
 		- [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
 		- [G1GC – Java 9 Garbage Collector explained in 5 minutes](https://blog.idrsolutions.com/2017/05/g1gc-java-9-garbage-collector-explained-5-minutes/)
 		- [Java HashMap은 어떻게 동작하는가?](https://d2.naver.com/helloworld/831311)
+	- 클린 코드
 		- [객체지향 생활 체조 총정리](https://developerfarm.wordpress.com/2012/02/03/object_calisthenics_summary/)
+		- [효과적인 이름짓기](https://remotty.github.io/blog/2014/03/01/hyogwajeogin-ireumjisgi/)
 	- Spring
 		- [cheese10yun/spring-guide](https://github.com/cheese10yun/spring-guide)
 	- JavaScript
