@@ -26,6 +26,8 @@
 		- [성공과 실패를 결정하는 1%의 네트워크 원리](https://book.naver.com/bookdb/book_detail.nhn?bid=16386986)
 		- [리눅스 커맨드라인 완벽 입문서](https://book.naver.com/bookdb/book_detail.nhn?bid=7112622)
 		- [토비의 스프링 3.1 세트](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516)
+		- [객체지향의 사실과 오해](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968)
+		- [객체 지향과 디자인 패턴](https://book.naver.com/bookdb/book_detail.nhn?bid=7255217)
 		- [자바 ORM 표준 JPA 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
 		- [리팩토링](https://book.naver.com/bookdb/book_detail.nhn?bid=7047630)
 		- [클린 아키텍처](https://book.naver.com/bookdb/book_detail.nhn?bid=15303798)
@@ -67,6 +69,7 @@
 		- [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
 		- [G1GC – Java 9 Garbage Collector explained in 5 minutes](https://blog.idrsolutions.com/2017/05/g1gc-java-9-garbage-collector-explained-5-minutes/)
 		- [Java HashMap은 어떻게 동작하는가?](https://d2.naver.com/helloworld/831311)
+		- [객체지향 생활 체조 총정리](https://developerfarm.wordpress.com/2012/02/03/object_calisthenics_summary/)
 	- Spring
 		- [cheese10yun/spring-guide](https://github.com/cheese10yun/spring-guide)
 	- JavaScript
