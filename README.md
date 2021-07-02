@@ -23,6 +23,7 @@
 		- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
 	- 🚧 Queue
+		- [도메인 주도 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 		- [성공과 실패를 결정하는 1%의 네트워크 원리](https://book.naver.com/bookdb/book_detail.nhn?bid=16386986)
 		- [리눅스 커맨드라인 완벽 입문서](https://book.naver.com/bookdb/book_detail.nhn?bid=7112622)
 		- [토비의 스프링 3.1 세트](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516)
