@@ -27,6 +27,7 @@
 		- [성공과 실패를 결정하는 1%의 네트워크 원리](https://book.naver.com/bookdb/book_detail.nhn?bid=16386986)
 		- [리눅스 커맨드라인 완벽 입문서](https://book.naver.com/bookdb/book_detail.nhn?bid=7112622)
 		- [토비의 스프링 3.1 세트](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516)
+		- [자바 웹 프로그래밍 Next Step](https://book.naver.com/bookdb/book_detail.nhn?bid=11037465)
 		- [객체지향의 사실과 오해](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968)
 		- [객체 지향과 디자인 패턴](https://book.naver.com/bookdb/book_detail.nhn?bid=7255217)
 		- [자바 ORM 표준 JPA 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
