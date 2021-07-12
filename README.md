@@ -5,6 +5,8 @@
 	- Java
 		- [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515)
 		- [자바 8 인 액션](https://book.naver.com/bookdb/book_detail.nhn?bid=8883567)
+	- OOP
+		- [객체지향의 사실과 오해](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968)
 	- JavaScript
 		- [인사이드 자바스크립트](https://book.naver.com/bookdb/book_detail.nhn?bid=7400243)
 	- Database
@@ -28,7 +30,7 @@
 		- [리눅스 커맨드라인 완벽 입문서](https://book.naver.com/bookdb/book_detail.nhn?bid=7112622)
 		- [토비의 스프링 3.1 세트](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516)
 		- [자바 웹 프로그래밍 Next Step](https://book.naver.com/bookdb/book_detail.nhn?bid=11037465)
-		- [객체지향의 사실과 오해](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968)
+		- [오브젝트](https://book.naver.com/bookdb/book_detail.nhn?bid=15007773)
 		- [객체 지향과 디자인 패턴](https://book.naver.com/bookdb/book_detail.nhn?bid=7255217)
 		- [자바 ORM 표준 JPA 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
 		- [리팩토링](https://book.naver.com/bookdb/book_detail.nhn?bid=7047630)
