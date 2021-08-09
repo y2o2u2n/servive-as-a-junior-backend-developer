@@ -77,7 +77,9 @@
 		- [객체지향 생활 체조 총정리](https://developerfarm.wordpress.com/2012/02/03/object_calisthenics_summary/)
 		- [효과적인 이름짓기](https://remotty.github.io/blog/2014/03/01/hyogwajeogin-ireumjisgi/)
 	- TDD
-		- [[3월 우아한테크세미나] 우아한ATDD](https://www.youtube.com/watch?v=ITVpmjM4mUE)		
+		- [[3월 우아한테크세미나] 우아한ATDD](https://www.youtube.com/watch?v=ITVpmjM4mUE)
+	- DDD
+		- [도메인 지식 탐구를 위한 이벤트 스토밍 Event Storming](https://www.youtube.com/watch?v=hUcpv5fdCIk)
 	- Spring
 		- [cheese10yun/spring-guide](https://github.com/cheese10yun/spring-guide)
 	- JavaScript
