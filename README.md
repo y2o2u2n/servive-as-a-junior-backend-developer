@@ -46,7 +46,7 @@
 		- [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/스프링부트-JPA-활용-1) : [코드](https://github.com/y2o2u2n/spring-boot-jpa-web-application)
 		- [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/스프링부트-JPA-API개발-성능최적화) :  [코드](y2o2u2n/spring-boot-jpa-api-application)
 		- [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic#)
-	- TDD & Clean Code
+	- Next Step
 		- [자바 플레이그라운드 with TDD, 클린코드](https://edu.nextstep.camp/c/9WPRB0ys/)
 		- [DDD(Domain-Driven Design) 세레나데](https://edu.nextstep.camp/c/GwN2MSqv/)
 	- MOOC
