@@ -20,7 +20,8 @@
 		- [완벽한 IT 인프라 구축을 위한 Docker](https://book.naver.com/bookdb/book_detail.nhn?bid=13987575)
 		- [완벽한 IT 인프라 구축의 자동화를 위한 Kubernetes](https://book.naver.com/bookdb/book_detail.nhn?bid=15476569) 
 	- Design
-		- [데이터 중심 애플리케이션 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=13483879)	
+		- [데이터 중심 애플리케이션 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=13483879)
+		- [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://book.naver.com/bookdb/book_detail.nhn?bid=20756755)	
 	- ETC
 		- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
@@ -47,6 +48,7 @@
 		- [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic#)
 	- TDD & Clean Code
 		- [자바 플레이그라운드 with TDD, 클린코드](https://edu.nextstep.camp/c/9WPRB0ys/)
+		- [DDD(Domain-Driven Design) 세레나데](https://edu.nextstep.camp/c/GwN2MSqv/)
 	- MOOC
 		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
 		
