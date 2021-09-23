@@ -15,6 +15,7 @@
 	- DDD
 		- [DDD Start!](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650)
 		- [도메인 주도 설계 핵심](https://book.naver.com/bookdb/book_detail.nhn?bid=12547690)
+		- [도메인 주도 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 	- Network
 		- [그림으로 배우는 HTTP & Network Basic](https://book.naver.com/bookdb/book_detail.nhn?bid=8657832)
 	- Container
@@ -27,11 +28,9 @@
 		- [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642)
 		- [Clean Code](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)
 	- 🚧 Queue
-		- [도메인 주도 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572)
 		- [성공과 실패를 결정하는 1%의 네트워크 원리](https://book.naver.com/bookdb/book_detail.nhn?bid=16386986)
 		- [리눅스 커맨드라인 완벽 입문서](https://book.naver.com/bookdb/book_detail.nhn?bid=7112622)
 		- [토비의 스프링 3.1 세트](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516)
-		- [자바 웹 프로그래밍 Next Step](https://book.naver.com/bookdb/book_detail.nhn?bid=11037465)
 		- [오브젝트](https://book.naver.com/bookdb/book_detail.nhn?bid=15007773)
 		- [객체 지향과 디자인 패턴](https://book.naver.com/bookdb/book_detail.nhn?bid=7255217)
 		- [자바 ORM 표준 JPA 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=9252528)
