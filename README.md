@@ -50,6 +50,7 @@
 	- NEXT STEP
 		- [자바 플레이그라운드 with TDD, 클린코드](https://edu.nextstep.camp/c/9WPRB0ys/)
 		- [DDD(Domain-Driven Design) 세레나데](https://edu.nextstep.camp/c/GwN2MSqv/)
+		- [우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0/)
 	- MOOC
 		- [Getting Started with Google Kubernetes Engine](https://ko.coursera.org/learn/google-kubernetes-engine)
 		
